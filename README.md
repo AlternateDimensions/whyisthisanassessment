@@ -1,6 +1,9 @@
-## Getting Started
+# Why is this an Assessment
+A quick Nim's Game project that Mr. J forced me to do. Ugh.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Well, I did it anyway. I want my points. Although, I made it cooler. Because you know me, I make it cooler for myself.
+
+If you don't like my changes, I already made it.
 
 ## Folder Structure
 
