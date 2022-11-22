@@ -61,7 +61,7 @@ public class Game {
     //Checks whether or not the user's requested move is allowed or not.
     public boolean isLegal(int x){
         int half = pieces == 1 ? 1 : (int) ((double) pieces/2);
-        return x <= half;
+        return (x <= half && x >= 1);
     }
 
 

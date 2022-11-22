@@ -25,6 +25,14 @@ public class Main {
             System.out.println("\033[43m<!!> \033[1mPlayer 1\033[0m\033[43m and \033[1mPlayer 2\033[0m\033[43m had the same name, so you were both renamed. <!!>\033[0m");
             System.out.println("-----------------------------");
         }
+        /* 
+        // AI mode
+        if ((playerOne.getName()).startsWith("AI")){
+            // ai CODE
+        } else if ((playerTwo.getName()).startsWith("AI")){
+            // AI CODE
+        }
+        */
 
         // Vars
         String again = "Literally any string";
